@@ -1,0 +1,7 @@
+webbrowser
+keras
+open cv
+numpy
+flask
+gunicorn==20.0.4
+ 
